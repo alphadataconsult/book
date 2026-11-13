@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+  <title>Personal Data Breaches in Denmark: progress updates</title>
+  <subtitle>A data-driven book on eight years of personal data breach notifications in Denmark. Follow its progress, read the preface, and find preview chapters and their sources here as they are released.</subtitle>
+  <link href="https://book.alphadataconsult.dk/feed.xml" rel="self"/>
+  <link href="https://book.alphadataconsult.dk/"/>
+  <id>https://book.alphadataconsult.dk/</id>
+  <updated>2026-11-10T00:00:00.000Z</updated>
+  <author><name>Pradip Shrestha</name></author>
+  <entry>
+    <title>The pre-release edition is available to read</title>
+    <link href="https://book.alphadataconsult.dk/updates/pre-release-edition-available/"/>
+    <id>https://book.alphadataconsult.dk/updates/pre-release-edition-available/</id>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <summary>The book&#39;s free companion edition has been available to read online since August 2026.</summary>
+  </entry>
+  <entry>
+    <title>The preview site opens</title>
+    <link href="https://book.alphadataconsult.dk/updates/preview-site-opens/"/>
+    <id>https://book.alphadataconsult.dk/updates/preview-site-opens/</id>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <summary>This site now carries the book&#39;s contents page, a central list of references, and a place for preview chapters.</summary>
+  </entry>
+</feed>
